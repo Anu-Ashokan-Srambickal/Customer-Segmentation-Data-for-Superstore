@@ -14,6 +14,28 @@ This project aims to perform comprehensive data analysis using Python. Conductin
 
 This project will involve the following key components:
 
-Data Loading and Initial Overview Data Pre-processing Exploratory Data Analysis (EDA) Visualizations Insight Generation and Report 🔴 Tool Used:
+Data Loading and Initial Overview 
 
-Phython Pandas Numpy Seaborn Matplotlib Anaconda-Jupter Notebook csv file
+Data Pre-processing 
+
+Exploratory Data Analysis (EDA) 
+
+Visualizations 
+
+Insight Generation and Report
+
+🔴 Tool Used:
+
+Phython 
+
+Pandas 
+
+Numpy 
+
+Seaborn
+
+Matplotlib 
+
+Anaconda-Jupter Notebook 
+
+csv file
